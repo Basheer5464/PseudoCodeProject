@@ -1,4 +1,4 @@
 Print "Hello World. This is a sample code change."
 
-Thanks!
+Thanks! This is a new change made through a pull request.
 
